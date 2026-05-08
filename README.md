@@ -14,11 +14,9 @@ Where function meets form.
   <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=00baaa&labelColor=161616&logo=discord&logoColor=white"></a>
 </p>
 
-<!-- Optional but recommended: Add screenshots here
 <p align="center">
   <img src="assets/preview.png" alt="oxide antinote preview">
 </p>
--->
 
 *oxide* for [Antinote](https://antinote.io/) brings the oxide colorscheme to a beautiful productivity scratchpad.
 A minimalist dark theme built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and vibrant accent colors to emphasize structure without visual noise.
