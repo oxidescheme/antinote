@@ -18,18 +18,7 @@ Where function meets form.
   <img src="assets/preview.png" alt="oxide antinote preview">
 </p>
 
-*oxide* for [Antinote](https://antinote.io/) brings the oxide colorscheme to a beautiful productivity scratchpad.
-A minimalist dark theme built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and vibrant accent colors to emphasize structure without visual noise.
-
-## Design Philosophy
-
-oxide is built on three core principles:
-
-- **Function first**: Every color exists to convey information
-- **Visual silence**: Elegance emerges from what is intentionally omitted
-- **Systematic harmony**: Every color relates predictably to the others
-
-The full design philosophy and color system are documented in the [main oxide repository](https://github.com/oxidescheme/oxide).
+*oxide* for [Antinote](https://antinote.io/).
 
 ## Installation
 
@@ -41,11 +30,7 @@ The full design philosophy and color system are documented in the [main oxide re
 
 ## Contributing
 
-We follow the same philosophy as the main oxide project: minimalism doesn't mean stagnation.
-
-- Report issues through [GitHub Issues](https://github.com/oxidescheme/antinote/issues)
-- PRs that improve clarity and consistency are welcome
-- Ensure changes align with oxide's functional aesthetic
+PRs welcome. Make sure colors match the palette in the [main repo](https://github.com/oxidescheme/oxide).
 
 ## Credits
 
