@@ -6,8 +6,8 @@
   "typeMain": "#cecece",
   "typeSubtle": "#3ba6f5",
   "typeSubtlePlus": "#00b3d6",
-  "typeHighlight": "#262626",
-  "typeLight": "#8f8f8f",
+  "typeHighlight": "#222222",
+  "typeLight": "#808080",
   "typeSuperlight": "#555555",
   "typeHyperLight": "#222222",
   "typeReverse": "#161616",
@@ -23,6 +23,6 @@
   "accent5Main": "#ed756e",
   "accent5Secondary": "#ff9890",
   "gridSuperlight": "#222222",
-  "gridClear": "#262626",
+  "gridClear": "#222222",
   "gridBold": "#555555"
 }
